@@ -12,7 +12,7 @@ function App() {
       <FormHook />
       <ItemHook /> */}
       {/* <EffectHook /> */}
-      <MouseEventEffect />
+      {/* <MouseEventEffect /> */}
     </div>
   );
 }
